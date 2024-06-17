@@ -1,6 +1,4 @@
 package com.java;
-import java.util.logging1.*;
-
 class FibonacciExample{  
 public static void main(String[] args)  
 {    
