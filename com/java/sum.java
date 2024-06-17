@@ -1,12 +1,13 @@
 package com.java;
 
-public class sum {
+public class Sum {
+    public static int method(int num1, int num2)
+    {
+        return num1+num2;
+    }
     public static void main(String[] args)
     {
-    int a=10;
-    int b=20;
-    int c=a+b;
-    int d=0;
-    System.out.println("sum is "+c);
-}
+        int res = Sum.method(28, 49);
+        System.out.println(res);
+    }
 }
