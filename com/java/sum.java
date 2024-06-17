@@ -1,5 +1,4 @@
 package com.java;
-
 public class Sum {
     public static int method(int num1, int num2)
     {
